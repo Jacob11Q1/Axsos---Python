@@ -1,50 +1,59 @@
 # 🐍 AXSOS Academy - Python Fundamentals
 
-This repository contains exercises, daily assignments, and practice projects completed as part of the **AXSOS Academy** training program. It focuses on core Python programming concepts, foundational skills, and an introduction to Django.
+Welcome to my Python learning repository from the AXSOS Full Stack Bootcamp.  
+This repo contains exercises, daily assignments, and mini-projects completed as part of the **Python Fundamentals** phase of the program.
 
----
+## 📚 Topics Covered
+
+Throughout this phase, I focused on building a solid foundation in Python programming. Key concepts covered include:
+
+- ✅ Variables, Data Types, and Operators
+- ✅ Control Flow: `if`, `else`, `elif`, loops
+- ✅ Functions and Parameters
+- ✅ Lists, Tuples, Sets, and Dictionaries
+- ✅ File I/O
+- ✅ Object-Oriented Programming (OOP)
+- ✅ Modules and Packages
+- ✅ Intro to Virtual Environments
+- ✅ Intro to Django (folder included)
 
 ## 📁 Folder Structure
 
+Axsos---Python/
 ├── assignments/ # Daily exercises and practice problems
 ├── functions/ # Function-based challenges
-├── oop/ # Object-Oriented Programming exercises
+├── oop/ # Object-Oriented Programming tasks
 ├── django_intro/ # Introductory Django projects
-├── my_environments/ # Virtual environments setup
+├── my_environments/ # Python virtual environments
+└── README.md
 
-yaml
-Copy
-Edit
+🛠️ Tools & Technologies
+Python 3.10+
 
----
+Visual Studio Code
 
-## ⚙️ Technologies Used
+Git & GitHub
 
-- Python 3.x  
-- Git & GitHub  
-- Django (Intro level)
+Virtual Environments (venv)
 
----
+Command Line (CLI)
 
-## 📝 Notes
+Django (introductory)
 
-This repository is for educational purposes only.  
-All exercises and projects were completed by **Mahmoud Mousa** during the AXSOS Academy Python training program.
+🎯 Learning Goals
+Write clean and efficient Python code
 
----
+Understand core programming logic
 
-## ✅ Topics Covered
+Build confidence for backend development
 
-- Variables, Data Types, and Operators  
-- Conditionals and Loops  
-- Functions and Recursion  
-- Lists, Dictionaries, and Tuples  
-- Object-Oriented Programming  
-- Working with Virtual Environments  
-- Intro to Django Framework
+Prepare for advanced full-stack topics
 
----
+👨‍💻 Author
+Jacob Qumsiyeh
+GitHub Profile
+AXSOS Academy Full Stack Student | Python Developer in Progress
 
-## 📬 Contact
-
-For any questions or collaboration opportunities, feel free to reach out via [GitHub](https://github.com/Jacob11Q1).
+📝 License
+This repository is for personal educational use, following the AXSOS Academy curriculum.
+Course content copyright © AXSOS Academy.
